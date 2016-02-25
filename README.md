@@ -1,2 +1,2 @@
 # pythonDemo
-python demo project
+Some python examples
